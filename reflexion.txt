@@ -1,0 +1,20 @@
+1. Reflexión de lo que ha pasado al realizar un “pull”:
+
+Al intentar subir sin hacer pull, Git puede mostrar un error indicando que el repositorio remoto tiene cambios que tu versión local no tiene. Git no permite sobrescribir estos cambios sin integrarlos primero.
+
+2. ¿Qué hemos aprendido de los conflictos?
+Hemos aprendido que los conflictos ocurren cuando distintas personas modifican la misma línea o parte de un archivo. Para resolverlos hay que revisar las diferencias, decidir qué versión conservar o cómo combinarlas, y comunicarlo si es necesario.
+
+4. ¿Que nos ha ayudado a mantener la historia coherente?
+
+Realmente la coherencia de la historia es relativa ya que se usó IA Generativa para ello, aunque, se ha intentado mantenerlo a través de organización en donde uno decide poner el principio, el final y otro entre medias. Se hizo párrafos separados antes de realizar el merge para no haber conflictos.
+
+3. ¿Por qué es útil trabajar en ramas en equipos?
+
+   Trabajar con ramas permite a los desarrolladores:
+- Desarrollar nuevas funcionalidades sin afectar al código principal.
+- Probar ideas o cambios de forma segura.
+- Facilitar la colaboración, ya que cada persona puede trabajar de manera independiente y luego integrar sus cambios.
+- Gestionar conflictos de manera más clara y organizada.
+
+
